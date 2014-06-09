@@ -3,6 +3,7 @@
 // variables!
 
 slide_width = 640px
+slide_width = 100%
 slide_height = 480px
 slide_background = #eaeaea
 
@@ -10,7 +11,7 @@ slide_transition_length = .6s
 slide_transition_easing = ease
 slide_transition_rotate_y = 90deg
 // Safari bugs out on 3d transform-origins, so we have to fake it
-slide_transition_nudge_x = -100px
+slide_transition_nudge_x = -200px
 
 bullet_transition_length = .3s
 bullet_transition_easing = ease
@@ -51,9 +52,7 @@ article
 
 .bespoke-slide
   transition:
-    transform slide_transition_length slide_transition_easing,
-    opacity slide_transition_length slide_transition_easing,
-    background slide_transition_length slide_transition_easing
+    -webkit-transform .6s ease,opacity .6s ease,background .6s ease
   transform-origin: 50% 50% 0
   backface-visibility: hidden
   display: flex
@@ -67,7 +66,8 @@ article
   top: 50%
   margin-top: (slide_height / 2) * -1
   left: 50%
-  margin-left: (slide_width / 2) * -1
+  // margin-left: (slide_width / 2) * -1
+  margin-left: -50%
   background: slide_background
   padding: 40px
   border-radius: 0
@@ -80,10 +80,10 @@ article
     margin: 0
 
 .bespoke-before
-  transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateY(slide_transition_rotate_y * -1) translateX(slide_width / -2)
+  transform: translateX(640px) translateX(-320px) rotateY(-20deg) translateX(-320px)
 
 .bespoke-after
-  transform: translateX(slide_transition_nudge_x) translateX(slide_width / 2) rotateY(slide_transition_rotate_y) translateX(slide_width / 2)
+  transform: translateX(-640px) translateX(320px) rotateY(20deg) translateX(320px)
   @media print
     transform: none
 
@@ -160,7 +160,8 @@ pre
 body
   font-family: helvetica, arial, sans-serif
   font-size: 18px
-  color: #404040
+  color: #3a4145
+  background: #f0f0f0
 
 h1
   font-size: 72px
@@ -196,4 +197,3 @@ p
 a
   color: #0089f3
   text-decoration: none
-
