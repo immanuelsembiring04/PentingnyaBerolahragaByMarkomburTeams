@@ -1,0 +1,365 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: 	Markombur Team
+Judul Topik  : 	Pentingnya Berolahraga
+Alamat Github:	https://github.com/immanuelsembiring04/PentingnyaBerolahragaByMarkomburTeams
+Alamat Trello:	https://trello.com/b/kwnfdk58/pentingnya-berolahraga-by-markombur-teams
+
+Anggota 1
+
+Nama 	:	Immanuel Sembiring
+NIM	:	121112520
+
+Anggota 2
+
+Nama 	:	Hisar Ronald Saragi
+NIM	:	121112848
+
+Anggota 3
+
+Nama 	:	Steven Rendy Pakpahan
+NIM	:	121112805
+
+Anggota 4
+
+Nama 	:	Ridik Onri Sitindaon
+NIM	:	121112651
+
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+2/6 - 4/6
+Scrummaster: Immanuel Sembiring (12.111.2520)
+
+Sprint 2:
+5/6 - 7/6
+Scrummaster: Ridik Onri Sitindaon (12.111.2651)
+
+Sprint 3: 
+9/6 - 11/6
+Scrummaster: Steven Rendy Pakpahan (12.111.2805)
+
+Sprint 4:
+12/6 - 14 /6
+Scrummaster: Hisar Ronald Saragi (12.111.2848)
+
+
+Progress Harian
+------------------------------------
+
+2/6 
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
+
+3/6 
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
+
+4/6
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
+
+5/6 
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
+
+
+6/6 
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
+
+7/6
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
+
+9/6 
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
+
+10/6 
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
+
+11/6 
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
+
+12/6 
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
+
+13/6 
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
+
+14/6 
+Daily Scrum
+(Immanuel Sembiring):
+1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
+2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
+3. Saya ada kendala di.. menggunakan git bash
+
+(Ridik Onri Sitindaon):
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Steven Rendy Pakpahan):
+
+1. Semalam saya.. 
+2. Hari ini saya.. menambahkan isi intro
+3. Saya ada kendala di.. menggunakan git bash
+
+
+(Hisar Ronald Saragi):
+1. Semalam saya.. 
+2. Hari ini saya.. tidak ada
+3. Saya ada kendala di.. tidak ada
+------------------------------------
