@@ -59,9 +59,9 @@ Daily Scrum
 3. Saya ada kendala di.. menggunakan git bash
 
 (Ridik Onri Sitindaon):
-1. Semalam saya.. 
-2. Hari ini saya.. menambahkan isi intro
-3. Saya ada kendala di.. menggunakan git bash
+1. Semalam saya bergabung di repository dan di trello
+2. Hari ini saya menambahkan isi intro
+3. Saya ada kendala saat menggunakan git bash
 
 
 (Steven Rendy Pakpahan):
@@ -85,9 +85,9 @@ Daily Scrum
 3. Saya ada kendala di.. menggunakan git bash
 
 (Ridik Onri Sitindaon):
-1. Semalam saya.. 
-2. Hari ini saya.. menambahkan isi intro
-3. Saya ada kendala di.. menggunakan git bash
+1. Semalam saya bergabung di trello
+2. Hari ini saya  menambahkan isi intro
+3. Saya ada kendala saat nge pull dan push
 
 
 (Steven Rendy Pakpahan):
@@ -111,9 +111,9 @@ Daily Scrum
 3. Saya ada kendala di.. menggunakan git bash
 
 (Ridik Onri Sitindaon):
-1. Semalam saya.. 
-2. Hari ini saya.. menambahkan isi intro
-3. Saya ada kendala di.. menggunakan git bash
+1. Semalam saya bergabung di repository dan di trello
+2. Hari ini saya menambahkan isi intro
+3. Saya ada kendala menggunakan git bash
 
 
 (Steven Rendy Pakpahan):
@@ -137,9 +137,9 @@ Daily Scrum
 3. Saya ada kendala di.. menggunakan git bash
 
 (Ridik Onri Sitindaon):
-1. Semalam saya.. 
-2. Hari ini saya.. menambahkan isi intro
-3. Saya ada kendala di.. menggunakan git bash
+1. Semalam saya membuat repository dan membuat board di trello sebagai bahan diskusi
+2. Hari ini saya menambahkan isi intro <mengenai olah raga yang saya sukai>
+3. Saya ada kendala saat menggunakan pull request
 
 
 (Steven Rendy Pakpahan):
@@ -164,8 +164,8 @@ Daily Scrum
 3. Saya ada kendala di.. menggunakan git bash
 
 (Ridik Onri Sitindaon):
-1. Semalam saya.. 
-2. Hari ini saya.. menambahkan isi intro
+1. Semalam saya membuat board unuk bahan diskusi di trello
+2. Hari ini saya menambahkan isi intro <tentang penjelasan bola voli>
 3. Saya ada kendala di.. menggunakan git bash
 
 
@@ -190,9 +190,9 @@ Daily Scrum
 3. Saya ada kendala di.. menggunakan git bash
 
 (Ridik Onri Sitindaon):
-1. Semalam saya.. 
-2. Hari ini saya.. menambahkan isi intro
-3. Saya ada kendala di.. menggunakan git bash
+1. Semalam saya mengerjakan opening dan intro mengenai bola voli
+2. Hari ini saya mengambil data dari origin mascter
+3. Saya ada kendala di menggunakan git bash
 
 
 (Steven Rendy Pakpahan):
@@ -216,9 +216,9 @@ Daily Scrum
 3. Saya ada kendala di.. menggunakan git bash
 
 (Ridik Onri Sitindaon):
-1. Semalam saya.. 
-2. Hari ini saya.. menambahkan isi intro
-3. Saya ada kendala di.. menggunakan git bash
+1. Semalam saya mengambil logbook dan mencoba mengerjai
+2. Hari ini saya.. menambahkan isi intro<gambar bola voly>
+3. Saya ada kendala di menggunakan git bash
 
 
 (Steven Rendy Pakpahan):
@@ -242,9 +242,9 @@ Daily Scrum
 3. Saya ada kendala di.. menggunakan git bash
 
 (Ridik Onri Sitindaon):
-1. Semalam saya.. 
-2. Hari ini saya.. menambahkan isi intro
-3. Saya ada kendala di.. menggunakan git bash
+1. Semalam saya mengerjakan opening dan intro<bola voli> 
+2. Hari ini saya mengiri
+3. Saya kadang lupa cara mengambil data origin master
 
 
 (Steven Rendy Pakpahan):
@@ -268,8 +268,8 @@ Daily Scrum
 3. Saya ada kendala di.. menggunakan git bash
 
 (Ridik Onri Sitindaon):
-1. Semalam saya.. 
-2. Hari ini saya.. menambahkan isi intro
+1. Semalam saya bergabung di repository dan di trello
+2. Hari ini saya mengerjakan opening dan intro
 3. Saya ada kendala di.. menggunakan git bash
 
 
@@ -291,11 +291,11 @@ Daily Scrum
 (Immanuel Sembiring):
 1. Semalam saya Membuat repository baru dan membuat board untuk ruang diskusi di trello
 2. Hari ini saya.. mengerjakan opening & intro (index.jade & main.styl)
-3. Saya ada kendala di.. menggunakan git bash
+3. Saya ada kendala..menggunakan git bash
 
 (Ridik Onri Sitindaon):
-1. Semalam saya.. 
-2. Hari ini saya.. menambahkan isi intro
+1. Semalam saya 
+2. Hari ini saya mengerjakan opening & intro Mengedit Log_Book (Mengambil data dari origin supaya commitnya sama
 3. Saya ada kendala di.. menggunakan git bash
 
 
@@ -321,8 +321,8 @@ Daily Scrum
 
 (Ridik Onri Sitindaon):
 1. Semalam saya.. 
-2. Hari ini saya.. menambahkan isi intro
-3. Saya ada kendala di.. menggunakan git bash
+2. Hari ini saya..menambahkan isi intro
+3. Saya ada kendala dmenggunakan git bash
 
 
 (Steven Rendy Pakpahan):
