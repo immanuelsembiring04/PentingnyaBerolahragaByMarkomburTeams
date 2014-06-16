@@ -72,9 +72,9 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. kemarin saya mengfork repository master
+2. Hari ini saya tidak ada menambahkan intro
+3. Saya ada kendala di.. menggunakan git bash
 ------------------------------------
 
 3/6 
@@ -98,9 +98,9 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. kemarin  saya masuk ke dalam ruang diskusi trello
+2. Hari ini saya tidak ada
+3. Saya ada kendala menggunakan git bash
 ------------------------------------
 
 4/6
@@ -111,7 +111,7 @@ Daily Scrum
 3. Saya ada kendala di.. menggunakan git bash
 
 (Ridik Onri Sitindaon):
-1. Semalam saya.. 
+1. Semalam saya mengcloning repository master 
 2. Hari ini saya.. menambahkan isi intro
 3. Saya ada kendala di.. menggunakan git bash
 
@@ -124,9 +124,9 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. kemarin saya tidak ada menambahkan isi intro 
+2. Hari ini saya menambahkan intro
+3. Saya tidak ada kendala
 ------------------------------------
 
 5/6 
@@ -150,9 +150,9 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. Semalam saya tidak ada menambahkan intro
+2. Hari ini saya tidak ada menambahkan intro
+3. Saya tidak ada kendala
 ------------------------------------
 
 
@@ -177,9 +177,9 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. Semalam saya tidak ada menambahkan  
+2. Hari ini saya menambahkan intro
+3. Saya ada kendala di menggunakan index.jade & main.styl
 ------------------------------------
 
 7/6
@@ -203,9 +203,9 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. Semalam saya tidak ada menambahkan 
+2. Hari ini saya tidak ada
+3. Saya tidak ada kendala
 ------------------------------------
 
 9/6 
@@ -229,9 +229,9 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. Semalam saya tidak ada menambahkan 
+2. Hari ini saya tidak ada
+3. Saya tidak ada kendala
 ------------------------------------
 
 10/6 
@@ -255,9 +255,9 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. Semalam saya tidak ada menambahkan 
+2. Hari ini saya tidak ada
+3. Saya tidak ada kendala
 ------------------------------------
 
 11/6 
@@ -281,9 +281,9 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. Semalam saya menambahkan intro
+2. Hari ini saya tidak ada
+3. Saya ada kendala di menggunakan git bash
 ------------------------------------
 
 12/6 
@@ -307,9 +307,9 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. Semalam saya menambahkan intro
+2. Hari ini saya tidak ada menambahkan intro
+3. Saya tidak ada kendala
 ------------------------------------
 
 13/6 
@@ -333,9 +333,9 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. Semalam saya tidak ada menambahkan 
+2. Hari ini saya tidak ada
+3. Saya tidak ada kendala
 ------------------------------------
 
 14/6 
@@ -359,7 +359,7 @@ Daily Scrum
 
 
 (Hisar Ronald Saragi):
-1. Semalam saya.. 
-2. Hari ini saya.. tidak ada
-3. Saya ada kendala di.. tidak ada
+1. Semalam saya tidak ada menambahkan 
+2. Hari ini saya mengedit log book
+3. Saya ada kendala menggunakan index.jade & main.styl
 ------------------------------------
